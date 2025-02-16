@@ -1,3 +1,5 @@
+1b575e4 cd ..
+69dd80e cd
 f51cd13 cd
 1a259b2 pwd
 a54ef11 pwd
