@@ -1,3 +1,4 @@
+cfb5283 version
 7c9ca7d &&
 a96bc66 rm -m
 201e506 rmdir
