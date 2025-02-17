@@ -1,3 +1,4 @@
+05990ee init
 bb2a317 git config
 b7768d9 cat gitconfig
 68c1c2b email
