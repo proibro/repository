@@ -1,3 +1,4 @@
+201e506 rmdir
 9b8824f cat
 2cdc282 mv
 b99118e cp
