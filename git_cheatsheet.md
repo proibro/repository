@@ -19,3 +19,5 @@
 ### Работа с Git
 * **git version** - команда, отображающая текущую версию Git, установленную на компьютере;
 * **git config --global user.name "first_name last_name"** - команда для указания имени или никнейма пользователя в файле .gitcinfig;
+* **git config --global user.email example@gmail.com** - команда для указания имейла пользователя в файле .gitconfig;
+* **cat ~/.gitconfig** - читаем данные их файла .gitconfig;
