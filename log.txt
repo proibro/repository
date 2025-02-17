@@ -1,3 +1,4 @@
+42f1866 status
 2bb0dcc rm -rf .git
 05990ee init
 bb2a317 git config
