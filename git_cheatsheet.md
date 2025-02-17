@@ -22,3 +22,4 @@
 * **git config --global user.email example@gmail.com** - команда для указания имейла пользователя в файле .gitconfig;
 * **cat ~/.gitconfig** - читаем данные их файла .gitconfig;
 * **git config --list** - вывод полного содержимого конфигураций Git;
+* **git init** - команда, для преобразования текущей директории в репозиторий;
