@@ -1,3 +1,4 @@
+a96bc66 rm -m
 201e506 rmdir
 9b8824f cat
 2cdc282 mv
