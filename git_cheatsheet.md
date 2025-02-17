@@ -21,3 +21,4 @@
 * **git config --global user.name "first_name last_name"** - команда для указания имени или никнейма пользователя в файле .gitcinfig;
 * **git config --global user.email example@gmail.com** - команда для указания имейла пользователя в файле .gitconfig;
 * **cat ~/.gitconfig** - читаем данные их файла .gitconfig;
+* **git config --list** - вывод полного содержимого конфигураций Git;

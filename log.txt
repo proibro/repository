@@ -1,3 +1,4 @@
+b7768d9 cat gitconfig
 68c1c2b email
 7cb35e7 config
 cfb5283 version
